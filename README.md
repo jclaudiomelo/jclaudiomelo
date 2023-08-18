@@ -1,16 +1,20 @@
 <p align="center" style="border-radius:100%"><img height="auto" width="70%"  src="IMG.png" ></p>
 
+
+Esta é uma linha de código em Javascript.
+
+
 <div>
   <p align="center" > Hi there 👋</p>
-  <p align="center">Meu Nome é <a href="https://www.linkedin.com/in/jclaudiomelo/"><i>Claudio Melo</i></a> e atualmente estou no 2º semestre de ánalise e desenvolvimento de sistema na <a href="https://www.unopar.com.br/"><i>UNOPAR</i></a>. 
+  <p align="center" style="">Meu Nome é <a href="https://www.linkedin.com/in/jclaudiomelo/"><i>Claudio Melo</i></a> e atualmente estou no 2º semestre de ánalise e desenvolvimento de sistema na <a href="https://www.unopar.com.br/"><i>UNOPAR</i></a>. 
   </p>
-  <p align="center"></p>
+  <p align="center">Ainda se aperfeiçoando nas Tecnologia do mercado, mas com grande interesse em Frontend</p>
 </div>
 
 <div align="center">
   <a href="https://github.com/jclaudiomelo">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jclaudiomelo&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jclaudiomelo&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" style="box-shadow: 4px 24px 15px rgba(10, 22, 11)" src="https://github-readme-stats.vercel.app/api?username=jclaudiomelo&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" style="box-shadow: 4px 24px 15px rgba(10, 22, 11)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jclaudiomelo&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
