@@ -1,9 +1,4 @@
 <p align="center" style="border-radius:100%"><img height="auto" width="70%"  src="IMG.png" ></p>
-
-
-Esta é uma linha de código em Javascript.
-
-
 <div>
   <p align="center" > Hi there 👋</p>
   <p align="center" style="">Meu Nome é <a href="https://www.linkedin.com/in/jclaudiomelo/"><i>Claudio Melo</i></a> e atualmente estou no 2º semestre de ánalise e desenvolvimento de sistema na <a href="https://www.unopar.com.br/"><i>UNOPAR</i></a>. 
