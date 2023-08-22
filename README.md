@@ -3,7 +3,7 @@
   <p align="center" > Hi there 👋</p>
   <p align="center" style="">Me Chamo <a href="https://www.linkedin.com/in/jclaudiomelo/"><i>Claudio Melo</i></a> e no momento estou no 2º semestre de ánalise e desenvolvimento de sistema na <a href="https://www.unopar.com.br/"><i>UNOPAR</i></a>. 
   </p>
-  <p align="center">Ainda se aperfeiçoando nas Tecnologia do mercado, mas com grande interesse em Frontend</p>
+  <p align="center">Em desenvolvimentos nas tecnologias atuais</p>
 </div>
 
 <div align="center">
