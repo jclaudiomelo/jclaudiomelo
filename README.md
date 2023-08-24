@@ -1,7 +1,7 @@
 <p align="center" style="border-radius:100%"><img height="auto" width="70%"  src="IMG.png" ></p>
 <div>
   <p align="center" > Hi there 👋</p>
-  <p align="center" style="">Me Chamo <a href="https://www.linkedin.com/in/jclaudiomelo/"><i>Claudio Melo</i></a> e no momento estou no 2º semestre de ánalise e desenvolvimento de sistema na <a href="https://www.unopar.com.br/"><i>UNOPAR</i></a>. 
+  <p align="center" style="">Me Chamo <a href="https://www.linkedin.com/in/jclaudiomelo/"><i>Claudio Melo</i></a>Cursando 2º semestre de ánalise e desenvolvimento de sistema na <a href="https://www.unopar.com.br/"><i>UNOPAR</i></a>. 
   </p>
   <p align="center">Em desenvolvimentos nas tecnologias atuais</p>
 </div>
