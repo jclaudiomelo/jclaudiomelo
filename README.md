@@ -3,8 +3,12 @@
   <p align="center" > Hi there 👋</p>
   <p align="center" style="">Me Chamo <a href="https://www.linkedin.com/in/jclaudiomelo/"><i>Claudio Melo</i></a> Cursando 4º semestre de ánalise e desenvolvimento de sistema na <a href="https://www.unopar.com.br/"><i>UNOPAR</i></a>. 
   </p>
-  <p align="center">Em desenvolvimentos nas tecnologias atuais</p>
+  <p align="center">
+ Comprometido em aprimorar minhas habilidades e
+ conhecimentos na área de tecnologia, em busca de ingressar na
+ area de desenvolvimento de software</p>
 </div>
+<p align="center" > <a href="https://flowcv.com/resume/uiaiibaifa"> <i>Curriculo</i></p>
 
 <div align="center">
   <a href="https://github.com/jclaudiomelo">
@@ -15,17 +19,13 @@
 
 <div align="center" valign="top"><br>
  
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <!-- <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"> -->
-  <!-- <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> -->
-  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-<!--   <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png"> -->
-<!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="nodejs" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="nodejs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"">
+  <img align="center" alt="github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
-
 <div align="center">
  
   <a href="https://www.linkedin.com/in/jclaudiomelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
