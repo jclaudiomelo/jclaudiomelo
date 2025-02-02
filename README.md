@@ -34,7 +34,7 @@
 </div>
 <div align="center">
   <a href="https://github.com/jclaudiomelo">
-    <img height="200em" src="SNAKE.SVG"/>
+ <!-- <img height="200em" src="SNAKE.SVG"/>
 
   </a>
 </div>
