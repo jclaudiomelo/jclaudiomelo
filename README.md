@@ -22,14 +22,25 @@
 
 ## **💻 Tecnologias**
 <div align="center">
+  <img align="center" alt="Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
+  <img align="center" alt="Angular" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
+  <img align="center" alt="JavaScript" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
+  <img align="center" alt="TypeScript" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
   <img align="center" alt="HTML" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
   <img align="center" alt="CSS" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
-  <img align="center" alt="NodeJS" height="70" width="80" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
-  <img align="center" alt="Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
-  <img align="center" alt="Git" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
-  <img align="center" alt="Linux" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
+  <img align="center" alt="C#" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
   <img align="center" alt="Kotlin" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
+  <img align="center" alt="Git" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
+  <img align="center" alt="GitHub" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
+  <img align="center" alt="Postman" height="70" width="80" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
+  <img align="center" alt="Arduino" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
+  <img align="center" alt="Docker" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
+  <img align="center" alt="Kubernetes" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
+  <img align="center" alt="MSSQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
+  <img align="center" alt="Oracle" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
+  <img align="center" alt="MySQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
 </div>
+
 
 ---
 
