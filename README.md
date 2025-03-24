@@ -1,37 +1,48 @@
 <p align="center" style="border-radius:100%"><img height="auto" width="70%"  src="IMG.png" ></p>
 <div>
-  <p align="center" > Hi there 👋</p>
-  <p align="center" style="">Me Chamo <a href="https://www.linkedin.com/in/jclaudiomelo/"><i>Claudio Melo</i></a> Cursando 4º semestre de ánalise e desenvolvimento de sistema na <a href="https://www.unopar.com.br/"><i>UNOPAR</i></a>. 
-  </p>
-  <p align="center">
- Comprometido em aprimorar minhas habilidades e
- conhecimentos na área de tecnologia, em busca de ingressar na
- area de desenvolvimento de software</p>
+  <p align="center" >Olá 👋</p>
+  <p align="center">Me chamo <a href="https://www.linkedin.com/in/jclaudiomelo/"><i>Claudio Melo</i></a> e atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na <a href="https://www.unopar.com.br/"><i>UNOPAR</i></a>.</p>
+  <p align="center">Possuo sólidos conhecimentos em Programação e estou em busca de uma oportunidade para atuar como desenvolvedor de
+ sistemas.</p>
 </div>
-<p align="center" > <a href="https://flowcv.com/resume/uiaiibaifa"> <i>Curriculo</i></p>
+
+---
+<div align="center">
+  
+## **📈 Estatísticas do GitHub**
 
 <div align="center">
   <a href="https://github.com/jclaudiomelo">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jclaudiomelo&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jclaudiomelo&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jclaudiomelo&theme=dracula&hide_border=false&layout=compact"/>
   </a>
 </div>
 
-<div align="center" valign="top"><br>
- 
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="nodejs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"">
-  <img align="center" alt="github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg">
-  <img align="center" alt="linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg">
-</div><br>
+---
+
+## **💻 Tecnologias**
 <div align="center">
- 
-  <a href="https://www.linkedin.com/in/jclaudiomelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <img align="center" alt="HTML" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
+  <img align="center" alt="CSS" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
+  <img align="center" alt="NodeJS" height="70" width="80" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
+  <img align="center" alt="Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
+  <img align="center" alt="Git" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
+  <img align="center" alt="Linux" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
+  <img align="center" alt="Kotlin" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" style="background-color: white; border-radius: 10%; padding: 5px;">
 </div>
+
+---
+
+## **🌐 Conecte-se comigo**
+<div align="center">
+  <a href="https://www.linkedin.com/in/jclaudiomelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/jclaudiomelo"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://flowcv.com/resume/uiaiibaifa"><img src="https://img.shields.io/badge/-Currículo-4CAF50?style=for-the-badge" target="_blank"></a>
+</div>
+
+---
+
+
 <div align="center">
   <a href="https://github.com/jclaudiomelo">
  <!-- <img height="200em" src="SNAKE.SVG"/>
