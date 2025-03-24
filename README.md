@@ -1,12 +1,18 @@
 <p align="center" style="border-radius:100%"><img height="auto" width="70%"  src="IMG.png" ></p>
+
+
+<div align="center">
+  
 <div>
   <p align="center" >Olá 👋</p>
   <p align="center">Me chamo <a href="https://www.linkedin.com/in/jclaudiomelo/"><i>Claudio Melo</i></a> e atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na <a href="https://www.unopar.com.br/"><i>UNOPAR</i></a>.</p>
-  <p align="center">Possuo sólidos conhecimentos em Programação e estou em busca de uma oportunidade para atuar como desenvolvedor de
- sistemas.</p>
+  <p align="center">Possuo sólidos conhecimentos em programação e estou em busca de uma oportunidade para atuar como desenvolvedor de sistemas.</p>
+  <p align="center">Tenho interesse em atuar na área de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Fullstack ou Backend. Minhas principais habilidades incluem linguagens como <b>Java</b>, <b>C#</b>, <b>JavaScript</b>, e frameworks como <b>SpringBoot</b>, <b>Angular</b> e <b>Node.js</b>.</p>
+  <p align="center">Estou comprometido em aprimorar minhas habilidades em <b>metodologias ágeis</b>, <b>Design Patterns</b> e <b>Clean Code</b>, sempre buscando entregar soluções inovadoras e de alta qualidade.</p>
 </div>
 
 ---
+
 <div align="center">
   
 ## **📈 Estatísticas do GitHub**
