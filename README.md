@@ -5,10 +5,11 @@
   
 <div>
   <p align="center" >Olá 👋</p>
-  <p align="center">Me chamo <a href="https://www.linkedin.com/in/jclaudiomelo/"><i>Claudio Melo</i></a> e atualmente estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na <a href="https://www.unopar.com.br/"><i>UNOPAR</i></a>.</p>
-  <p align="center">Possuo sólidos conhecimentos em programação e estou em busca de uma oportunidade para atuar como desenvolvedor de sistemas.</p>
-  <p align="center">Tenho interesse em atuar na área de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Fullstack ou Backend. Minhas principais habilidades incluem linguagens como <b>Java</b>, <b>C#</b>, <b>JavaScript</b>, e frameworks como <b>SpringBoot</b>, <b>Angular</b> e <b>Node.js</b>.</p>
-  <p align="center">Estou comprometido em aprimorar minhas habilidades em <b>metodologias ágeis</b>, <b>Design Patterns</b> e <b>Clean Code</b>, sempre buscando entregar soluções inovadoras e de alta qualidade.</p>
+  <p align="center">Me chamo <a href="https://www.linkedin.com/in/jclaudiomelo/"><i>Claudio Melo</i></a> Formado em Análise e Desenvolvimento de Sistemas na <a href="https://www.unopar.com.br/"><i>UNOPAR</i></a>.</p>
+  <p align="center">Profissional com experiência em desenvolvimento backend em Java (Java 8, Spring Boot, Hibernate, JPA) e integração 
+com bancos de dados relacionais como PostgreSQL. Atuação em projetos Full Stack, com implementação de interfaces 
+modernas e responsivas em Angular. Conhecimento sólido em boas práticas de desenvolvimento (SOLID, Clean Code) 
+e metodologias ágeis (Scrum, Kanban).</p>
 </div>
 
 ---
